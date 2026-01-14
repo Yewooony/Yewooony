@@ -36,5 +36,4 @@
 
 ### ✉️ Contact Me
 <a href="mailto:[jomallaengii@gmail.com]"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-<a href="[링크드인주소]"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
-<a href="[블로그주소]"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
+<a href="[https://www.linkedin.com/in/yewon-cho-657590305/]"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
