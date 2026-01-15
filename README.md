@@ -19,18 +19,7 @@
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/> <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
 
 **Development & Data**
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
-
----
-
-### 📂 Main Projects
-
-| 프로젝트명 | 한 줄 설명 | 주요 역할 |
-| :--- | :--- | :--- |
-| **NAVI** | 상황 별 최적 AI 도구 추천 서비스 | 서비스 기획 및 UX/UI |
-| **인비가드** | 사내괴롭힘 탐지 AI 서비스 | 서비스 기획 및 UX/UI |
-| **니어니어** | 세대 간 연결을 위한 음식&손편지 판매 플랫폼 사업 | CPO 및 기획 |
-| **또또가** | 내돈내산 리뷰어 커머스 플랫폼 | 서비스 기획 |
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
 
 ---
 
