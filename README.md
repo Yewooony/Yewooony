@@ -1,15 +1,15 @@
 # Hi there, I'm Yewooony! 👋
 
 ### 🚀 Aspiring Product Manager & Software Engineer
-> "사용자의 불편함에서 가치를 발견하고, 기술로 해결책을 제시하는 기획자입니다."
+> "유저 관점에서 사고하고, 기술로 해결책을 제시합니다."
 
 ---
 
 ### 💫 About Me
 - 🎓 **Education:** 서울여자대학교 소프트웨어융합학과
-- 🔭 **Focus:** 데이터 기반의 서비스 기획 및 사용자 경험(UX) 최적화
+- 🔭 **Focus:** 데이터 기반의 서비스 개선 및 사용자 경험(UX) 최적화
 - 🤝 **Activities:** Google Developer Groups on Campus, SWU Organizer / 3rd
-- 💬 **Ask me about:** 서비스 기획, 데이터 시각화, 프로젝트 매니지먼트
+- 💬 **Ask me about:** 서비스 기획, 모바일 앱 개발(Kotlin, Flutter), 데이터 분석, 프로젝트 매니지먼트
 
 ---
 
